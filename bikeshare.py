@@ -31,7 +31,7 @@ def get_user_input():
 
 def display_data(city, month, day):
     """
-    Data displayed according to city name and filtered by month and day.
+    The data displayed according to city name and filtered by month and day.
 
     """
     try:
